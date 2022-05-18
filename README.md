@@ -72,7 +72,7 @@ https://kotlinlang.org/docs/operator-overloading.html#arithmetic-operators
 |    <=    | Menor ou igual a  |
 </br>
 Saiba mais aqui: </br>
-https://kotlinlang.org/docs/operator-overloading.html#property-delegation-operators
+https://kotlinlang.org/docs/operator-overloading.html#comparison-operators
 </br></br>
 
 
