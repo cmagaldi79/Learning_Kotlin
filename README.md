@@ -78,8 +78,15 @@ https://kotlinlang.org/docs/operator-overloading.html#property-delegation-operat
 
 ## 10). Operadores Lógicos
 
+| Operador | Correlação        | Resultado                                                                                 |
+|:--------:|:-----------------:|:------------------------------------------------------------------------------------------|
+|    &&    | E                 | Retorna "VERDADEIRO" apenas se todas as expressões analisadas resultarem em verdadeiras.  |
+|    \|\|  | OU                | Retorna "VERDADEIRO" caso alguma das expressões analisadas resulte em verdadeiro.         | 
+|    !     | NÂO               | Retorna "VERDADEIRO" caso a expressão analisada resulte em falso.                         |
+</br>
+Saiba mais aqui: </br>
 https://kotlinlang.org/docs/operator-overloading.html#arithmetic-operators
-
+</br></br>
 
 ## 11). Operadores de Atribuição
 
