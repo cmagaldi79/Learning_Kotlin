@@ -62,7 +62,18 @@ https://kotlinlang.org/docs/operator-overloading.html#arithmetic-operators
 
 ## 09). Operadores Relacionais
 
-https://kotlinlang.org/docs/operator-overloading.html#arithmetic-operators
+| Operador | Correlação        |
+|:--------:|:------------------|
+|    ==    | Igual a           |
+|    !=    | Diferente de      |
+|    >     | Maior que         |
+|    <     | Menor que         |
+|    >=    | Maior ou igua a   |
+|    <=    | Menor ou igual a  |
+</br>
+Saiba mais aqui: </br>
+https://kotlinlang.org/docs/operator-overloading.html#property-delegation-operators
+</br></br>
 
 
 ## 10). Operadores Lógicos
