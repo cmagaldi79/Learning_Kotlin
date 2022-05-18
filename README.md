@@ -106,6 +106,23 @@ https://kotlinlang.org/docs/operator-overloading.html#augmented-assignments
 
 ## 12). Tipos de Dado
 
+| Tipo     | Função                                                                                    |
+|:--------:|:------------------------------------------------------------------------------------------|
+|  Char    | Armazena um único caracter.                                                               |
+|  String  | Armazena um conjunto de acaracteres.                                                      |
+|  Byte    | Armazena números inteiros entre -128 e 127.                                               |
+|  Short   | Armazena números inteiros entre -32.768 e 32.767.                                         |
+|  Int     | Armazena números inteiros entre -2.147.483.648 e 2.147.483.647.                           |
+|  Long    | Armazena números inteiros entre -9.223.372.036.854.775.808 e -9.223.372.036.854.775.807.  |
+|  Float   | Armazena números fracionários com até 7 casas decimais.                                   |
+|  Double  | Armazena números fracionários com até 16 casas decimais.                                  |
+|  Boolean | Armazena "VERDADEIRO" ou "FALSO"                                                          |
+</br>
+Saiba mais aqui: </br>
+https://kotlinlang.org/docs/basic-types.html
+</br></br>
+
+
 ## 13). Constantes
 
 ## 14). Variáveis
