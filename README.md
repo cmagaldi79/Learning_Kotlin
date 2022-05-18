@@ -90,6 +90,20 @@ https://kotlinlang.org/docs/operator-overloading.html#arithmetic-operators
 
 ## 11). Operadores de Atribuição
 
+| Operador | Correlação                                |
+|:--------:|:------------------------------------------|
+|    =     | Recebe                                    |
+|    +=    | Recebe o seu valor somado ao de           |
+|    -=    | Recebe o seu valor subtraído de           |
+|    \*=   | Recebe o seu valor multiplicado por       |
+|    /=    | Recebe o seu valor dividido por           |
+|    %=    | Recebe o resto dadivisão do seu valor por |
+</br>
+Saiba mais aqui: </br>
+https://kotlinlang.org/docs/operator-overloading.html#augmented-assignments
+</br></br>
+
+
 ## 12). Tipos de Dado
 
 ## 13). Constantes
