@@ -1,6 +1,7 @@
 # Kotlin
 
-## 01). Propósito
+## Propósito
+
 Kotlin é uma linguagem de programação multiplataforma, orientada a objetos e funcional, concisa e estaticamente tipada (variáveis com tipos específicos), desenvolvida pela JetBrains em 2011, que compila para a Máquina Virtual Java (JVM) e que também pode ser traduzida para a linguagem JavaScript e compilada para código nativo, via LLVM. Foi anunciada em 2017 pela Google como a linguagem oficial do sistema Android.
 
 A versão da JVM (Java Virtual Machine) de sua biblioteca padrão depende da Java Class Library, mas a inferência de tipos permite que sua sintaxe seja mais concisa. Apesar de possuir uma sintaxe mais concisa e um pouco diferente da linguagem Java, Kotlin é projetada para ter uma interoperabilidade total com código Java, agilizando assim a sua adoção.
@@ -13,38 +14,53 @@ https://pt.wikipedia.org/wiki/Kotlin
 </br></br>
 
 
-## 02). Documentação
+## Documentação
 
 https://kotlinlang.org/docs/getting-started.html
 </br></br>
 
 
-## 03). Canais no Youtube
+## Canais no Youtube
 
 https://www.youtube.com/c/kotlin
 </br></br>
 
 
-## 04). Repositórios no GitHub
+## Repositórios no GitHub
 
 
 https://github.com/JetBrains/kotlin
 </br></br>
 
 
-## 05). Comunidades
+## Comunidades
 
 https://kotlinlang.org/community/
 </br></br>
 
 
-## 07). Twitter
+## Twitter
 
 https://twitter.com/kotlin
 </br></br>
 
 
-## 08). Operadores Aritméticos
+## Programação
+
+  1º). Caso ainda não possu uma conta de usuário no GitHub, crie uma aqui: https://github.com
+  2º). Acesse sua conta de usuário no GitHub.
+  3º). Crie o repositório desejado. ( Repositories > New... )
+  4º). Acesse o repositório criado.
+  5º). Clone o seu repositório em sua máquina ( Code > Open GitHub Desktop... )
+  6º). Caso ainda não possua o "GitHub DeskTop" instalado em sua máquina instale-o ( https://desktop.github.com/ )
+  7°). No "GitHub Desktop" defina que deseja abrir o repositório no seu "JetBrains IntelliJ IDEA Community Edition".
+  8º). No "IntelliJ IDEA" crie um novo arquivo Kotlin.
+  9º). Edite > Salve > Compile e Rode o seu arquivo.
+  10°) Realize o "COMMIT and PUSH" deste arquivo para o seu repositório no GitHub.
+  </br></br>
+
+
+## Operadores Aritméticos
 
 | Operador | Função            |
 |:--------:|:------------------|
@@ -60,7 +76,7 @@ https://kotlinlang.org/docs/operator-overloading.html#arithmetic-operators
 </br></br>
 
 
-## 09). Operadores Relacionais
+## Operadores Relacionais
 
 | Operador | Correlação        |
 |:--------:|:------------------|
@@ -76,7 +92,7 @@ https://kotlinlang.org/docs/operator-overloading.html#comparison-operators
 </br></br>
 
 
-## 10). Operadores Lógicos
+## Operadores Lógicos
 
 | Operador | Correlação        | Resultado                                                                                 |
 |:--------:|:-----------------:|:------------------------------------------------------------------------------------------|
@@ -88,7 +104,7 @@ Saiba mais aqui: </br>
 https://kotlinlang.org/docs/operator-overloading.html#arithmetic-operators
 </br></br>
 
-## 11). Operadores de Atribuição
+## Operadores de Atribuição
 
 | Operador | Correlação                                |
 |:--------:|:------------------------------------------|
@@ -104,7 +120,7 @@ https://kotlinlang.org/docs/operator-overloading.html#augmented-assignments
 </br></br>
 
 
-## 12). Tipos de Dado
+## Tipos de Dado
 
 | Tipo     | Função                                                                                    |
 |:--------:|:------------------------------------------------------------------------------------------|
@@ -123,45 +139,45 @@ https://kotlinlang.org/docs/basic-types.html
 </br></br>
 
 
-## 13). Constantes
+## Constantes
 
-## 14). Variáveis
+## Variáveis
 
-## 15). Função Principal
+## Função Principal
 
-## 16). Funções
+## Funções
 
-## 17). Lambdas
+## Lambdas
 
-## 18). Estruturas Condicionais
+## Estruturas Condicionais
 
-## 19). Estruturas de Repetição
+## Estruturas de Repetição
 
-## 20). Coleções de Dados
+## Coleções de Dados
 
-## 21). Classes
+## Classes
 
-## 22). Objetos
+## Objetos
 
-## 23). Construtores
+## Construtores
 
-## 24). Destrutores
+## Destrutores
 
-## 25). Interfaces
+## Interfaces
 
-## 26). Arquivos ".csv"
+## Arquivos ".csv"
 
-## 27). Arquivos ".json"
+## Arquivos ".json"
 
-## 28). Persistência de Dados
+## Persistência de Dados
 
-## 29). Integrações
+## Integrações
 
-## 30). Tratament de Erros
+## Tratament de Erros
 
-## 31). Classes de Teste
+## Classes de Teste
 
-## 32). Bibliotecas de Comando
+## Bibliotecas de Comando
 
-## 33). Funções Nativas
+## Funções Nativas
 
