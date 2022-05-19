@@ -56,7 +56,7 @@ https://twitter.com/kotlin
   7°). No "GitHub Desktop" defina que deseja abrir o repositório no seu "JetBrains IntelliJ IDEA Community Edition". </br>
   8º). No "IntelliJ IDEA" crie um novo arquivo Kotlin. </br>
   9º). Edite > Salve > Compile e Rode o seu arquivo. </br>
-  10°) Realize o "COMMIT and PUSH" deste arquivo para o seu repositório no GitHub.
+  10°). Realize o "COMMIT and PUSH" deste arquivo para o seu repositório no GitHub.
   </br></br>
 
 
