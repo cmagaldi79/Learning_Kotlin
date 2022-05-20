@@ -48,14 +48,23 @@ https://twitter.com/kotlin
 ## Programação
 
   1º). Caso ainda não possu uma conta de usuário no GitHub, crie uma aqui: https://github.com </br>
+  
   2º). Acesse sua conta de usuário no GitHub. </br>
+  
   3º). Crie o repositório desejado. ( Repositories > New... ) </br>
+  
   4º). Acesse o repositório criado. </br>
+  
   5º). Clone o seu repositório em sua máquina ( Code > Open GitHub Desktop... ) </br>
+  
   6º). Caso ainda não possua o "GitHub DeskTop" instalado em sua máquina instale-o ( https://desktop.github.com/ ) </br>
+  
   7°). No "GitHub Desktop" defina que deseja abrir o repositório no seu "JetBrains IntelliJ IDEA Community Edition". </br>
+  
   8º). No "IntelliJ IDEA" crie um novo arquivo Kotlin. </br>
+  
   9º). Edite > Salve > Compile e Rode o seu arquivo. </br>
+  
   10°). Realize o "COMMIT and PUSH" deste arquivo para o seu repositório no GitHub.
   </br></br>
 
