@@ -5,6 +5,8 @@
 
    Autor:
    Carlos E. M. Magaldi */
+
+// Função principal...
 fun main() {
     // Declaração de variáveis...
     val myChar: Char
