@@ -148,6 +148,17 @@ https://kotlinlang.org/docs/basic-types.html
 </br></br>
 
 
+## Comentários
+
+| Operador         | Correlação                                     |
+|:----------------:|:-----------------------------------------------|
+|    /* ... \*/    |  Comenta um bloco de texto com várias linhas.  |
+|    //            |  Comenta uma linha de texto.                   | 
+</br>
+Saiba mais aqui: </br>
+https://kotlinlang.org/docs/basic-syntax.html#comments
+</br></br>
+
 ## Constantes
 
 https://blog.jetbrains.com/kotlin/2013/06/static-constants-in-kotlin/
