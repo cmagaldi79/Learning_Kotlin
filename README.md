@@ -107,7 +107,7 @@ https://kotlinlang.org/docs/operator-overloading.html#comparison-operators
 |:--------:|:-----------------:|:------------------------------------------------------------------------------------------|
 |    &&    | E                 | Retorna "VERDADEIRO" apenas se todas as expressões analisadas resultarem em verdadeiras.  |
 |    \|\|  | OU                | Retorna "VERDADEIRO" caso alguma das expressões analisadas resulte em verdadeiro.         | 
-|    !     | NÂO               | Retorna "VERDADEIRO" caso a expressão analisada resulte em falso.                         |
+|    !     | NÃO               | Retorna "VERDADEIRO" caso a expressão analisada resulte em falso.                         |
 </br>
 Saiba mais aqui: </br>
 https://kotlinlang.org/docs/operator-overloading.html#arithmetic-operators
